@@ -3211,7 +3211,7 @@ p.lost-password a:hover {
 /*  25.  Checout-success page
 /*----------------------------------------*/
 .btn.btn-primary {
-  border: 2px solid rgb(201, 193, 193);;
+  border: 2px solid #EBA83A;
   background: none !important;
   padding: 0px 40px;
   text-transform: uppercase;
@@ -3225,5 +3225,5 @@ p.lost-password a:hover {
 }
 .btn.btn-primary:hover {
   color: #fff !important;
-  background: rgb(201, 193, 193) !important;
+  background: #EBA83A !important;
 }
